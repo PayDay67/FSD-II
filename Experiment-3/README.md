@@ -1,4 +1,4 @@
-23BIS70035 - PARTH KANSAL
+23BIS70065 - PRINCE KUMAR
 
 # Learning outcomes
 - Understand the concept of SPA routing and how it differs from traditional multi-page navigation

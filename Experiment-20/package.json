@@ -1,0 +1,17 @@
+{
+  "name": "testing-backend",
+  "version": "1.0.0",
+  "description": "Testing backend for CI/CD pipeline experiment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["backend", "express", "docker"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

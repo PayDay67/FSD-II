@@ -1,8 +1,14 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom"
-import Form from "./components/Form"
+import { Container, Box } from '@mui/material'
+import { UserForm } from './components/UserForm'
 
-export default function App() {
+function App() {
   return (
-    <Form/>
+    <Container maxWidth="sm">
+      <Box sx={{ py: 4 }}>
+        <UserForm />
+      </Box>
+    </Container>
   )
 }
+
+export default App
